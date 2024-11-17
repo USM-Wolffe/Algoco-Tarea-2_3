@@ -1,0 +1,20 @@
+Con trasposicion
+Fuerza Bruta - s1: abdc, s2: abcd, Resultado: 1, Tiempo: 24 us
+Programación Dinámica - s1: abdc, s2: abcd, Resultado: 1, Tiempo: 13 us
+Fuerza Bruta - s1: gods, s2: dogs, Resultado: 2, Tiempo: 5 us
+Programación Dinámica - s1: gods, s2: dogs, Resultado: 2, Tiempo: 5 us
+Fuerza Bruta - s1: palce, s2: place, Resultado: 2, Tiempo: 5 us
+Programación Dinámica - s1: palce, s2: place, Resultado: 2, Tiempo: 5 us
+Fuerza Bruta - s1: palce, s2: place, Resultado: 2, Tiempo: 5 us
+Programación Dinámica - s1: palce, s2: place, Resultado: 2, Tiempo: 5 us
+Fuerza Bruta - s1: brithday, s2: birthday, Resultado: 2, Tiempo: 6 us
+Programación Dinámica - s1: brithday, s2: birthday, Resultado: 2, Tiempo: 5 us
+Sin trasposicion:
+Fuerza Bruta - s1: adsgad, s2: bagdas, Resultado: 5, Tiempo: 247 us
+Programación Dinámica - s1: adsgad, s2: bagdas, Resultado: 5, Tiempo: 16 us
+Fuerza Bruta - s1: adsga, s2: bpgds, Resultado: 5, Tiempo: 198 us
+Programación Dinámica - s1: adsga, s2: bpgds, Resultado: 5, Tiempo: 15 us
+Fuerza Bruta - s1: adsa, s2: bpgw, Resultado: 6, Tiempo: 70 us
+Programación Dinámica - s1: adsa, s2: bpgw, Resultado: 6, Tiempo: 14 us
+Fuerza Bruta - s1: igmf, s2: yeun, Resultado: 5, Tiempo: 62 us
+Programación Dinámica - s1: igmf, s2: yeun, Resultado: 5, Tiempo: 12 us

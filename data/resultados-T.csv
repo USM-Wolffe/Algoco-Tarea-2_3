@@ -1,0 +1,19 @@
+Categoria,Algoritmo,s1,s2,Resultado,Tiempo (μs)
+Con Trasposición,Fuerza Bruta,abdc,abcd,1,24
+Con Trasposición,Programación Dinámica,abdc,abcd,1,13
+Con Trasposición,Fuerza Bruta,gods,dogs,2,5
+Con Trasposición,Programación Dinámica,gods,dogs,2,5
+Con Trasposición,Fuerza Bruta,palce,place,2,5
+Con Trasposición,Programación Dinámica,palce,place,2,5
+Con Trasposición,Fuerza Bruta,palce,place,2,5
+Con Trasposición,Programación Dinámica,palce,place,2,5
+Con Trasposición,Fuerza Bruta,brithday,birthday,2,6
+Con Trasposición,Programación Dinámica,brithday,birthday,2,5
+Sin Trasposición,Fuerza Bruta,adsgad,bagdas,5,247
+Sin Trasposición,Programación Dinámica,adsgad,bagdas,5,16
+Sin Trasposición,Fuerza Bruta,adsga,bpgds,5,198
+Sin Trasposición,Programación Dinámica,adsga,bpgds,5,15
+Sin Trasposición,Fuerza Bruta,adsa,bpgw,6,70
+Sin Trasposición,Programación Dinámica,adsa,bpgw,6,14
+Sin Trasposición,Fuerza Bruta,igmf,yeun,5,62
+Sin Trasposición,Programación Dinámica,igmf,yeun,5,12
